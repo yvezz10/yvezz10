@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeff
+- 👋 Hi, I’m Jeff.
 - 👀 I’m interested in robotics, computer vision and machine learning.
 - 🌱 I’m currently persuing master degree of mechanical engineering in National Chiao Tung University
 - ✨ A little more about me: I'm interested in photograpghy📷. Recently I like to take photos with a film camera 🎞. 
